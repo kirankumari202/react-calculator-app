@@ -1,0 +1,2 @@
+sudo npm i -g nodemon
+npm i jquery --save
